@@ -1,3 +1,4 @@
+*Examples are from [The Rust Programming Language](https://doc.rust-lang.org/book/) book by Steve Klabnik and Carol Nichols*
 # Updating and Unistalling
 
 - rustup update
