@@ -29,6 +29,7 @@
 - cargo init (creates project in same folder)
 - cargo clean (clean everything and just leave source code)
 - cargo doc (generates documentation for project)
+- cargo install cargo-edit (installs cargo add)
 
 # Crates
 
